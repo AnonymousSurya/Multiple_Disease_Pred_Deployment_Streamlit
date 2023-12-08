@@ -12,4 +12,4 @@ ___
 For detailed description, You can see the complete work here:
 [Multple Disease Prediction](https://github.com/AnonymousSurya/Multiple_Disease_Prediction)
 
-_The pickle files present in this repo are generated in the above repo._
+_The pickle files present in this repo are generated in the **Multple Disease Prediction** repo._
