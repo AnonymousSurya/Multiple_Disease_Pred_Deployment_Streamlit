@@ -75,7 +75,7 @@ if (selected == 'Diabetes Prediction'):
     if st.button('Diabetes Test Result'):
 
         input_data_diab = [[Pregnancies, Glucose, BloodPressure, SkinThickness, Insulin, BMI, DiabetesPedigreeFunction, Age]]
-        input_data_diab = [[float(val) for val in row] for row in input_data]
+        input_data_diab = [[float(val) for val in row] for row in input_data_diab]
         print(input_data_diab)
 
         diab_prediction = diabetes_model.predict(input_data_diab)
