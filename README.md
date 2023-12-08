@@ -13,3 +13,9 @@ For detailed description, You can see the complete work here:
 [Multple Disease Prediction](https://github.com/AnonymousSurya/Multiple_Disease_Prediction)
 
 _The pickle files present in this repo are generated in the **Multple Disease Prediction** repo._
+
+
+___
+Snapshot of the web app:
+![Screenshot (146)](https://github.com/AnonymousSurya/Multiple_Disease_Pred_Deployment_Streamlit/assets/76435009/d822dc13-edef-4fcc-9cf5-6fc482a0bc6c)
+
